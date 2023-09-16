@@ -103,7 +103,7 @@ export function App() {
                 <Label>
                   Temperatura
                 </Label>
-                <Label>
+                <Label className='text-muted-foreground'>
                   {temperature}
                 </Label>
               </div>
